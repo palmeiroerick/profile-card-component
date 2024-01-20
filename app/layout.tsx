@@ -14,10 +14,21 @@ export const metadata: Metadata = {
   title: "Profile Card Component",
 };
 
+export const viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 1,
+  userScalable: "no",
+};
+
 const RootLayout = ({ children }: { children: ReactNode }) => {
   return (
     <html lang="en">
-      <body className={kumbhSans.className}>{children}</body>
+      <body
+        className={`${kumbhSans.className} bg-bg flex h-screen w-screen items-center justify-center overflow-hidden bg-darkCyan`}
+      >
+        {children}
+      </body>
     </html>
   );
 };
