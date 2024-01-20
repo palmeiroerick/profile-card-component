@@ -14,11 +14,15 @@ const config: Config = {
       darkGrayishBlue: "#6a6f81",
 
       /* Neutral */
+      white: "#ffffff",
       darkGray: "#969696",
     },
     fontWeight: {
       normal: "400",
       bold: "700",
+    },
+    backgroundImage: {
+      card: "url('/assets/bg-pattern-card.svg')",
     },
   },
   plugins: [],
