@@ -15,12 +15,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Screenshot
 
-![](./screenshot.jpg)
+![Screen Shot 2024-01-20 at 22 50 06](https://github.com/palmeiroerick/profile-card-component/assets/148393698/b7a990b0-97aa-487c-ac5b-a068721bb279)
 
 ## Links
 
-- [Solution]()
-- [Live Site]()
+- [Solution](https://github.com/palmeiroerick/profile-card-component)
+- [Live Site](https://profile-card-component-xi-seven.vercel.app/)
 
 ## Built with
 
